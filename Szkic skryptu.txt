@@ -1,0 +1,16 @@
+Skrypt łączy dwa/lub więcej pdf. 
+Wpisujemy nr stron które łączymy.
+
+Czyli lista dynamiczna.
+
+Obracanie pliku
+
+
+Okienko
+
+przeglądanie plików 
+
+miniaturka plików 
+
+ 
+
